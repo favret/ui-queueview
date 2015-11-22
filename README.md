@@ -6,7 +6,8 @@ A queue view display a list of items stacked one on another. Users can pop item 
 The cell comprising the individual items of the queue are UIView objects; UIQueueView uses this cell to draw the visible items of the queue.
 
 ## Installation
-soon...
+* Download UIQueueView source files.
+* Add the downloaded source files to your project.
 
 ## Usage
 soon...
