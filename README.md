@@ -11,7 +11,7 @@ The cell comprising the individual items of the queue are UIView objects; UIQueu
 
 ## Usage
 
-Go to the storyboard and drag a UIView. In the Identity inspector, set its Class to UIQueueView. That is the essential step for hooking up a scene from the storyboard with the UIQueueView. Don’t forget this or your class won’t be used!
+Go to the storyboard and drag a UIView. In the Identity inspector, set its Class to UIQueueView. That is the essential step for hooking up a scene from the storyboard with the UIQueueView. Don’t forget this or your UIQueueView won’t be used!
 
 In the Identity inspector, you can define two property:
 * numberOfItem, The number of items in queue view.
